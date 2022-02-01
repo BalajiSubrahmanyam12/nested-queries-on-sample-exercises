@@ -1,1 +1,1 @@
-# nested-queries-on-sample-exercises
+# nested-queries-on-sample-exercises using sql in database management system
